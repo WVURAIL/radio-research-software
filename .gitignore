@@ -1,14 +1,15 @@
 # CMake / GNU Radio out-of-tree build output
 build/
-CMakeCache.txt
-CMakeFiles/
-cmake_install.cmake
-install_manifest.txt
-Makefile
+/CMakeCache.txt
+/CMakeFiles/
+/cmake_install.cmake
+/install_manifest.txt
+/Makefile
 
 # Python
 __pycache__/
-*.py[cod]
+*.pyc
+*.pyo
 *.egg-info/
 venv/
 .venv/
